@@ -1,0 +1,10 @@
+node_modules
+public
+dist
+*.d.ts
+vite.config.ts
+.DS_Store
+*.local
+.eslintrc.cjs
+yarn.lock
+package-lock.json

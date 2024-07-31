@@ -1,0 +1,13 @@
+node_modules
+*.local
+package-lock.json
+package.json
+*.d.ts
+tsconfig.json
+tsconfig.node.json
+.DS_Store
+*.local
+.vscode/*
+yarn.lock
+README.md
+
