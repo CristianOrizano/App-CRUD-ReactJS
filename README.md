@@ -126,6 +126,7 @@ Formik es una librería de gestión de formularios para React que simplifica y m
 - npm install @tanstack/react-table
 
 > **Ubicarse en el main del proyecto.**
+
 > **const queryClient = new QueryClient(); =>** Aquí estás creando una instancia de QueryClient, que es el objeto principal que utilizas para interactuar con React Query en tu aplicación. Esta instancia de QueryClient se utiliza para configurar y administrar la caché de datos, realizar consultas y mutaciones, y mucho más.
 
 
